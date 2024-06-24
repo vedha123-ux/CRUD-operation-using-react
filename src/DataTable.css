@@ -1,0 +1,68 @@
+
+
+.dataTableContainer {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f5f5f5;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .dataTable {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  .dataTable th, .dataTable td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .dataTable th {
+    background-color: #f2f2f2;
+  }
+  
+  .dataTable td {
+    background-color: #fff;
+  }
+  
+  .formContainer {
+    margin-bottom: 20px;
+  }
+  
+  .editForm, .addForm {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 4px;
+  }
+  
+  .editForm label, .addForm label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .formInput {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+  }
+  
+  .formButton {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  .formButton:hover {
+    background-color: #45a049;
+  }
+  

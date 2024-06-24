@@ -1,0 +1,25 @@
+
+
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+table {
+  width: 50%;
+  margin: 20px auto;
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid #ddd;
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+}
+
+button {
+  margin-right: 5px;
+}

@@ -1,0 +1,22 @@
+.formContainer {
+    margin-bottom: 1rem;
+  }
+  
+  .formInput {
+    margin-right: 1rem;
+    padding: 0.5rem;
+    font-size: 1rem;
+  }
+  
+  .formButton {
+    padding: 0.5rem 1rem;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .formButton:hover {
+    background-color: #0056b3;
+  }
+  
